@@ -27,7 +27,7 @@ To develop the project, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/emreertugrul7/github-finder.git
+   git clone https://github.com/emreertugrl/Github-Bulucu.git
 
 
    ```
@@ -35,7 +35,7 @@ To develop the project, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd github-finder
+   cd Github-Bulucu
    ```
 
 3. Open the relevant files in your browser to view the application.
@@ -46,7 +46,7 @@ To develop the project, follow these steps:
 
 ## Live Demo
 
-<a href="https://?">Netlify Project View</a>
+<a href="https://githubfinderrapp.netlify.app/">Netlify Project View</a>
 
 ## API'ler
 
